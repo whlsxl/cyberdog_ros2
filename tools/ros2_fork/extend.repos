@@ -23,7 +23,7 @@ repositories:
     type: git
     url: https://github.com/ros-planning/navigation_msgs.git
     version: 2.1.0
-   ros-visualization/interactive_markers:
+  ros-visualization/interactive_markers:
     type: git
     url: https://github.com/ros-visualization/interactive_markers.git
     version: 2.2.0
